@@ -1,0 +1,18 @@
+C:\Users\devit\source\repos\Discord Accout Nuke\Discord Accout Nuke\bin\Debug\Discord Accout Nuke.exe.config
+C:\Users\devit\source\repos\Discord Accout Nuke\Discord Accout Nuke\bin\Debug\Discord Accout Nuke.exe
+C:\Users\devit\source\repos\Discord Accout Nuke\Discord Accout Nuke\bin\Debug\Discord Accout Nuke.pdb
+C:\Users\devit\source\repos\Discord Accout Nuke\Discord Accout Nuke\obj\Debug\Discord Accout Nuke.csprojAssemblyReference.cache
+C:\Users\devit\source\repos\Discord Accout Nuke\Discord Accout Nuke\obj\Debug\Discord Accout Nuke.exe
+C:\Users\devit\source\repos\Discord Accout Nuke\Discord Accout Nuke\obj\Debug\Discord Accout Nuke.pdb
+C:\Users\devit\source\repos\Discord Accout Nuke\Discord Accout Nuke\bin\Debug\Newtonsoft.Json.dll
+C:\Users\devit\source\repos\Discord Accout Nuke\Discord Accout Nuke\bin\Debug\Newtonsoft.Json.xml
+C:\Users\devit\source\repos\Discord Accout Nuke\Discord Accout Nuke\obj\Debug\Discord Accout Nuke.csproj.CopyComplete
+C:\Users\devit\source\repos\Discord Account Nuke\Discord Accout Nuke\bin\Debug\Discord Accout Nuke.exe.config
+C:\Users\devit\source\repos\Discord Account Nuke\Discord Accout Nuke\bin\Debug\Discord Accout Nuke.exe
+C:\Users\devit\source\repos\Discord Account Nuke\Discord Accout Nuke\bin\Debug\Discord Accout Nuke.pdb
+C:\Users\devit\source\repos\Discord Account Nuke\Discord Accout Nuke\bin\Debug\Newtonsoft.Json.dll
+C:\Users\devit\source\repos\Discord Account Nuke\Discord Accout Nuke\bin\Debug\Newtonsoft.Json.xml
+C:\Users\devit\source\repos\Discord Account Nuke\Discord Accout Nuke\obj\Debug\Discord Accout Nuke.csprojAssemblyReference.cache
+C:\Users\devit\source\repos\Discord Account Nuke\Discord Accout Nuke\obj\Debug\Discord Accout Nuke.csproj.CopyComplete
+C:\Users\devit\source\repos\Discord Account Nuke\Discord Accout Nuke\obj\Debug\Discord Accout Nuke.exe
+C:\Users\devit\source\repos\Discord Account Nuke\Discord Accout Nuke\obj\Debug\Discord Accout Nuke.pdb
